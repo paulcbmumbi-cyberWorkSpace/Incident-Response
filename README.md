@@ -1,6 +1,6 @@
 # Incident Response 2026
 
-IT Support Assistant at the Food Reserve Agency, supporting Android POS devices, user account administration, and system operations. BSc Information Technology (Cybersecurity) graduate from Zambia University College of Technology, Lusaka, Zambia, with a strong interest in cybersecurity internships and junior SOC / analyst roles. 
+IT Support Assistant at the Food Reserve Agency, supporting Android POS devices, user account administration, and system operations. BSc Information Technology (Cybersecurity) graduate from Zambia University College of Technology, Lusaka, Zambia, with a strong interest in cybersecurity internships and junior SOC / analyst roles.
 
 This portfolio showcases real-world cybersecurity investigations involving phishing threats, OSINT-based threat hunting, cloud incident response, compliance-focused remediation, and practical penetration testing methodologies. Each case demonstrates how security issues are identified, analyzed, contained, and resolved using evidence-driven methods and industry-aligned solutions.
 
