@@ -1,8 +1,8 @@
-# Incident Response Portfolio
+# Incident Response 2026
 
-Paul Chola Bwembya Mumbi, BSc IT (Cybersecurity), Lusaka, Zambia. Targeting cybersecurity internships and junior SOC / analyst roles.
+IT Support Assistant at the Food Reserve Agency, supporting Android POS devices, user account administration, and system operations. BSc Information Technology (Cybersecurity) graduate from Zambia University College of Technology, Lusaka, Zambia, with a strong interest in cybersecurity internships and junior SOC / analyst roles. 
 
-Two incident write-ups covering detection, analysis, containment, recovery and lessons learned.
+This portfolio showcases real-world cybersecurity investigations involving phishing threats, OSINT-based threat hunting, cloud incident response, compliance-focused remediation, and practical penetration testing methodologies. Each case demonstrates how security issues are identified, analyzed, contained, and resolved using evidence-driven methods and industry-aligned solutions.
 
 | # | Case | Domain | Outcome |
 |---|------|--------|---------|
@@ -11,10 +11,13 @@ Two incident write-ups covering detection, analysis, containment, recovery and l
 
 ## Skills demonstrated
 - Incident lifecycle: detect → analyze → contain → eradicate → recover → report
-- OSINT and DNS analysis
-- Google Cloud security (SCC, VPC firewall, IAM/service accounts, Cloud Storage, BigQuery)
+- Threat hunting, OSINT, DNS analysis, and phishing investigation
+- Cloud security incident response and compliance remediation
+- Google Cloud security (SCC, VPC firewall, IAM, service accounts, Cloud Storage, BigQuery)
 - PCI DSS 3.2.1 controls 1.2.1, 10.1, 10.2
-- Technical writing and lessons learned documentation
+- Practical penetration testing methodology, validation, and remediation
+- Azure Sentinel, KQL, Windows Server, Active Directory, PowerShell, Python
+- Technical writing, digital forensics, and lessons learned documentation
 
 ## Contact
 mumbipaul02@gmail.com · LinkedIn: available on request · [GitHub repository](https://github.com/paulcbmumbi-cyberWorkSpace/Incident-Response)
