@@ -6,8 +6,8 @@ Two incident write-ups covering detection, analysis, containment, recovery and l
 
 | # | Case | Domain | Outcome |
 |---|------|--------|---------|
-| 1 | [ECZ Phishing: OSINT Investigation](cases/01-ecz-phishing-osint/README.md) | Threat intel, OSINT, abuse reporting | Account suspended, repo removed, domain neutralized |
-| 2 | [Cymbal Retail GCP Data Breach](cases/02-cymbal-retail-gcp-breach/README.md) | Cloud security, SCC, PCI DSS | Contained, VM rebuilt, 11 findings remediated |
+| 1 | [ECZ Phishing: OSINT Investigation](https://github.com/paulcbmumbi-cyberWorkSpace/Incident-Response/blob/main/Incident-Response/cases/01-ecz-phishing-osint/README.md) | Threat intel, OSINT, abuse reporting | Account suspended, repo removed, domain neutralized |
+| 2 | [Cymbal Retail GCP Data Breach](https://github.com/paulcbmumbi-cyberWorkSpace/Incident-Response/blob/main/Incident-Response/cases/02-cymbal-retail-gcp-breach/README.md) | Cloud security, SCC, PCI DSS | Contained, VM rebuilt, 11 findings remediated |
 
 ## Skills demonstrated
 - Incident lifecycle: detect → analyze → contain → eradicate → recover → report
@@ -17,4 +17,4 @@ Two incident write-ups covering detection, analysis, containment, recovery and l
 - Technical writing and lessons learned documentation
 
 ## Contact
-mumbipaul02@gmail.com · [LinkedIn](#) · [GitHub](#)
+mumbipaul02@gmail.com · LinkedIn: available on request · [GitHub repository](https://github.com/paulcbmumbi-cyberWorkSpace/Incident-Response)

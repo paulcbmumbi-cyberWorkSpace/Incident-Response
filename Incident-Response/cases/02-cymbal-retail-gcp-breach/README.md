@@ -27,7 +27,7 @@ Public IP + open 22/3389 → brute force → malware persistence → service acc
 **Contain:** stopped and deleted the VM, replaced the open firewall rules, locked down the bucket.
 **Recover:** rebuilt as `cc-app-02` with a private IP, secure boot and its own service account.
 **Verify:** re-checked SCC.
-Screenshots are in the screenshots/ folder.
+Supporting screenshots and evidence are included in the PDF report.
 
 ## Recommendations
 1. No public admin access: use IAP, MFA and org policy.
